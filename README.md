@@ -11,13 +11,10 @@ All files have been proccessed; equalized and leveled to sounds as good as possi
 
 You can download the [whole sound library here](https://github.com/arahkun/sound_library-nintendo_8bits-super_mario-notifications_and_alerts/archive/master.zip).
 
-It contains one main folder with selected sounds, and one Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The library contains the main collection of our own favorites sounds. 
+Plus, we added over 20+ extra sound bites in the [supplementary sound library](https://github.com/arahkun/sound_library-nintendo_8bits-super_mario-notifications_and_alerts/tree/master/supplementary_sound_library).
 
 
-### Support or Contact
+### Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Arahkun
