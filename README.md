@@ -3,7 +3,11 @@
 
 ##  Get on the retro train with our equalized and leveled Nintendo 8bits sound bites. 
 
-`Code`We put together a brilliant library of unforgettable sounds, perfect if you are looking to update your phone notification and alert sounds. All files have been proccessed; equalized and leveled to sounds as good as possible. 
+```markdown
+We put together a brilliant library of unforgettable sounds, perfect if you are looking to update your phone notification and alert sounds. All files have been proccessed; equalized and leveled to sounds as good as possible.
+
+
+ 
 
 ### Travel back in time with every new notification thanks to our sound library.
 
@@ -15,8 +19,6 @@ It contains one main folder with selected sounds, and one Whenever you commit to
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
