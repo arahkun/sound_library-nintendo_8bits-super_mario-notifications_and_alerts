@@ -1,5 +1,3 @@
-![Mario](http://i.imgur.com/gvcONjo.png)
-
 ##  Get on the retro train with our equalized and leveled Nintendo 8bits sound bites. 
 
 We put together a brilliant library of unforgettable sounds.
@@ -18,4 +16,15 @@ Plus, we added over 20+ extra sound bites in the [supplementary sound library](h
 
 ### Contact
 
-Arahkun
+
+██████▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀██████
+██▓▒░                                                                     ░▒▓██
+██▓▒                                                                       ▒▓██
+██▓                                                                         ▓██
+██        ┌─────────────────────────────────────────────────────────┐        ██
+██    ■───┘          T A N U K I  ┌───┘  I N F O S E C U R I T Y    └───■    ██
+██    └─────────────────────────────────────────────────────────────────┘    ██
+██▓                                                                         ▓██
+██▓▒                                                                       ▒▓██
+██▓▒░                                                                     ░▒▓██
+██████▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄██████
