@@ -14,7 +14,6 @@ Plus, we added over 20+ extra sound bites in the [supplementary sound library](h
 
 
 ### Put together by
-<center>
 ```
         ██████▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀██████
         ██▓▒░                                                                     ░▒▓██
@@ -26,4 +25,3 @@ Plus, we added over 20+ extra sound bites in the [supplementary sound library](h
         ██▓▒░                                                                     ░▒▓██
         ██████▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄██████
 ```
-</center>
