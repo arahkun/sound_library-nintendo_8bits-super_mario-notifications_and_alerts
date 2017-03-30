@@ -1,8 +1,11 @@
-##  Equalized and enhanced sound bites from the classic Nintendo 8 bits Super Mario Bros. games (1 -> 3)
 
-You can use the [editor on GitHub](https://github.com/arahkun/sound_library-nintendo_8bits-super_mario-notifications_and_alerts/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+![Mario](http://i.imgur.com/gvcONjo.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+##  Enhanced (equalized & leveled) sound bites from the classic Nintendo 8bits Super Mario Bros. games 1 -> 3
+
+You can download the [whole sound library here](https://github.com/arahkun/sound_library-nintendo_8bits-super_mario-notifications_and_alerts/archive/master.zip).
+
+It contains one main folder with selected sounds, and one Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
@@ -22,8 +25,7 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](http://i.imgur.com/gvcONjo.png)
+) and 
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
