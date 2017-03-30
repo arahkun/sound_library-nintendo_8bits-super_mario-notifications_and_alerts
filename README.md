@@ -13,6 +13,8 @@ You can download the [whole sound library here](https://github.com/arahkun/sound
 The library contains the main collection of our own favorites sounds. 
 Plus, we added over 20+ extra sound bites in the [supplementary sound library](https://github.com/arahkun/sound_library-nintendo_8bits-super_mario-notifications_and_alerts/tree/master/supplementary_sound_library).
 
+![MarioGif](http://i.imgur.com/jbGucoM.gif)
+
 
 ### Contact
 
