@@ -4,10 +4,10 @@
 ##  Get on the retro train with our equalized and leveled Nintendo 8bits sound bites. 
 
 ```markdown
-We put together a brilliant library of unforgettable sounds, perfect if you are looking to update your phone notification and alert sounds. All files have been proccessed; equalized and leveled to sounds as good as possible.
+We put together a brilliant library of unforgettable sounds.
+Perfect if you are looking to update your phone notification and alert sounds. 
+All files have been proccessed; equalized and leveled to sounds as good as possible.```
 
-
- 
 
 ### Travel back in time with every new notification thanks to our sound library.
 
